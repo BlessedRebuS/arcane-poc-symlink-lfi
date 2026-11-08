@@ -6,7 +6,7 @@ GitOps reads follow symlinks outside the cloned repo.
 - **Affected:** `>= 2.0.0, < 2.8.0` · **Fixed:** v2.8.0 (PR #3570) · **CVSS:** 6.5
 - **Reported by:** BlessedRebuS · **Published:** 2026-11-07
 
-<video src="poc/poc.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/34b1fcf7-8bd9-4e98-9734-0a168795deb5
 
 ## Test in the Local Lab
 
